@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chakraui-todo-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/chakraui-todo-app/static/js/main.43299ee8.chunk.js",
+    "main.js.map": "/chakraui-todo-app/static/js/main.43299ee8.chunk.js.map",
+    "runtime-main.js": "/chakraui-todo-app/static/js/runtime-main.29ba759b.js",
+    "runtime-main.js.map": "/chakraui-todo-app/static/js/runtime-main.29ba759b.js.map",
+    "static/js/2.b85c86fb.chunk.js": "/chakraui-todo-app/static/js/2.b85c86fb.chunk.js",
+    "static/js/2.b85c86fb.chunk.js.map": "/chakraui-todo-app/static/js/2.b85c86fb.chunk.js.map",
+    "static/js/3.d96609b8.chunk.js": "/chakraui-todo-app/static/js/3.d96609b8.chunk.js",
+    "static/js/3.d96609b8.chunk.js.map": "/chakraui-todo-app/static/js/3.d96609b8.chunk.js.map",
+    "index.html": "/chakraui-todo-app/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/chakraui-todo-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b85c86fb.chunk.js.LICENSE.txt": "/chakraui-todo-app/static/js/2.b85c86fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29ba759b.js",
+    "static/js/2.b85c86fb.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.43299ee8.chunk.js"
+  ]
+}
