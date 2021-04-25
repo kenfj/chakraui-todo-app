@@ -43,7 +43,7 @@ function AddTodo({ addTodo }: Props) {
   return (
     <form onSubmit={handleSubmit}>
       <HStack m='8'>
-        <Input variant='filled' placeholder='learning chakra ui' ref={contentRef} />
+        <Input variant='filled' placeholder='learning Chakra UI' ref={contentRef} />
         <Button type='submit' colorScheme='green' px='8'>Add Todo</Button>
       </HStack>
     </form>
